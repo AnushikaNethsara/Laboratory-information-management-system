@@ -1,0 +1,510 @@
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucEmployees.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSales.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Shared.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\stdole.dll
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Work\C#\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+E:\Work\C#\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\AxShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Shared.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\stdole.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucEmployees.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSales.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\AxShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Shared.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\stdole.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Notification.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucEmployees.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSales.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git\GitTechDots\Medi Help\Medi Help\obj\Debug\Medi_Help.Alert.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\AxShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Shared.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\stdole.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Alert.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Notification.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\stdole.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Alert.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Notification.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucEmployees.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSales.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+C:\Users\Mathu\OneDrive\Desktop\git practise\propicForEmployeestechdots\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\stdole.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Alert.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Notification.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucEmployees.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSales.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+C:\Users\Mathu\OneDrive\Desktop\git practise\empProPic\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUpdatePriceList.resources
+E:\2nd Year\Tech Dots\Project\Git2\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSalesReports.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\stdole.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Alert.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Notification.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUpdatePriceList.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSalesReports.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+G:\Academic\Level 2\Project\MediHelp\Medi Help\Medi Help\bin\Debug\Guna.UI2.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\AxShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Shared.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\Guna.UI2.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\stdole.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Alert.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Notification.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUpdatePriceList.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSalesReports.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Git 6\MediHelp-master\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\Guna.UI2.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.WinForms.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.Wpf.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\stdole.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.pdb
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.xml
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.WinForms.pdb
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.WinForms.xml
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.Wpf.pdb
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.Wpf.xml
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Alert.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Notification.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUpdatePriceList.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSalesReports.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+G:\Academic\Level 2\Project\MediHelp\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.exe.config
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\AxShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Shared.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\Guna.UI2.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.WinForms.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.Wpf.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\ShockwaveFlashObjects.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\stdole.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.pdb
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.xml
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.WinForms.pdb
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.WinForms.xml
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.Wpf.pdb
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\LiveCharts.Wpf.xml
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csprojAssemblyReference.cache
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Admin.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Alert.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Cashier.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ChemicalAndEquipment.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Form1.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Formx1.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Front.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Mlt.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Notification.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.Properties.Resources.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucDailyCahReports.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUpdatePriceList.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucIonizedCalcium.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucLipidProfile.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucPatientsReports.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSalesReports.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucSerumFerritin.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucThyroidProfile.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUrineRatio.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucUser.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucViewEmployeeDetails.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucVitamineB12Serum.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.GenerateResource.cache
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CoreCompileInputs.cache
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.csproj.CopyComplete
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.exe
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi Help.pdb
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\obj\Debug\Medi_Help.ucCashReports.resources
+E:\2nd Year\Tech Dots\Project\Git9\MediHelp-master\MediHelp\Medi Help\Medi Help\bin\Debug\WhatsAppApi.dll
